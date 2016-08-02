@@ -20,7 +20,10 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-project.xcworkspace
+ReactNativeStarter.xcworkspace
+Podfile.lock
+Pods
+ReactNativeStarter.xcodeproj
 
 # Android/IJ
 #

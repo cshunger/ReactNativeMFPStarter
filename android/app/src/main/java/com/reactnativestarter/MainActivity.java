@@ -1,6 +1,10 @@
 package com.reactnativestarter;
 
+import android.os.Bundle;
+import android.util.Log;
+
 import com.facebook.react.ReactActivity;
+import com.worklight.wlclient.api.WLClient;
 
 public class MainActivity extends ReactActivity {
 
@@ -12,4 +16,5 @@ public class MainActivity extends ReactActivity {
     protected String getMainComponentName() {
         return "ReactNativeStarter";
     }
+
 }
